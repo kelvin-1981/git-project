@@ -10,5 +10,8 @@ public class TestMain {
         System.out.println("30");
     }
 
+    public static void kelvin(){
+        System.out.println("kelvin");
+    }
 
 }
